@@ -1,7 +1,7 @@
 ![Texto alternativo](https://i.pinimg.com/originals/bc/8a/b1/bc8ab1678cea7aa2c171414bf2d93579.jpg)
 ## EAI 😐👍
 
-Tô aprendendo a programar em python e não tem forma melhor do que apernder fazendo algo que a gente entende né?....
+Tô aprendendo a programar em python e não tem forma melhor do que aprender fazendo algo que a gente entende né?....
 JOGO DE AZAR HAHA
 ---
 
